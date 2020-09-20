@@ -23,12 +23,17 @@ The district summary table for data with and without Thomas High School is provi
    - The overall number of students passing changed from 65.2% 64.9%.
     
 7. The changes show that the erroneous average scores from Thomas High School were higher than the math and reading scores of the rest of the schools.
+<p>&nbsp;</p>
+
 
 ![District with Thomas High School](/Resources/District_summay_w_ths.png)*Summary with Thomas High School*
+<p>&nbsp;</p>
 
 ![District without Thomas High School](/Resources/District_summay_wo_ths.png)*Thomas without Thomas High School*
+<p>&nbsp;</p>
 
 ![Per School Summary](/Resources/Per_School_Summary.png)*School specific summary of test scores*
+<p>&nbsp;</p>
 
 
 ## Summary
